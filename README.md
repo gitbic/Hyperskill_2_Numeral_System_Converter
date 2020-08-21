@@ -16,3 +16,13 @@ Input three lines:
 - The target radix.
 
 Output contains the correct number representation in the given radix.
+
+Example
+
+Input:
+- 10
+- 10.234
+- 7
+
+Output:
+- 13.14315
